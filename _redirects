@@ -1,0 +1,7 @@
+# Old CV page now lives at /about/
+/cv         /about/   301
+/cv/        /about/   301
+
+# Latest CV PDF, built automatically from Overleaf via GitHub
+/cv.pdf     https://github.com/todedeyi/Temitope_General-CV---Revised-Structure/releases/download/cv-latest/Temitope-Odedeyi-CV.pdf   302
+
